@@ -1,5 +1,5 @@
 # Earthquakes Developer Roadmap
-Sources for developers about Earthquakes worldwide
+Sources for developers about Earthquakes worldwide.
 
 # Sources
 * [EMSC Seismic Portal API Portal](https://seismicportal.eu/fdsnws/event/1/docs#/) 
@@ -12,3 +12,6 @@ Sources for developers about Earthquakes worldwide
 * [INGV Earthquake API Portal](https://webservices.ingv.it/swagger-ui/dist/?url=https://ingv.github.io/openapi/fdsnws/event/0.0.1/event.yaml)
 * [Washington ISC API Portal](http://isc-mirror.iris.washington.edu/fdsnws/event/1/)
 * [SeisComP FDSNWS API Portal](https://geofon.gfz-potsdam.de/fdsnws/event/1/)
+
+# Note
+The sources in this repo collected from https://emsc.eu/Earthquake_data/Data_queries.php origin.
